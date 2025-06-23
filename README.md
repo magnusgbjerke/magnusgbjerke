@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 - 👋 Hello, I’m Magnus
-- 👀 I have a passion for both backend and frontend development. I enjoy building complete solutions with the use of technologies such as Spring Boot, Docker, and React. My background as an accountant gives me unique insights into accounting systems and financial workflows, enabling me to bridge the gap between technical development and business needs.
+- 👀 I have a passion for both backend and frontend development. I enjoy building complete solutions with the use of technologies such as Spring Boot, Docker, and React. My background as an accountant gives me unique insights into financial workflows, enabling me to bridge the gap between technical development and business needs.
 - 🌱 I’m currently diving deeper into Spring Boot for backend development, mastering Docker Compose for container orchestration, and exploring best practices in web development to create seamless user experiences with React. I’m also intrigued by solving real-world problems, building robust infrastructure, and enhancing user experiences through innovative tech.
 - 💞️ I’m looking to collaborate on backend development projects, as well as frontend projects. I’m passionate about building full-stack solutions that solve real-world IT challenges!
 - 📫 How to reach me:  magnusgbjerke@gmail.com
